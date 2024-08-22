@@ -13,4 +13,24 @@ public class Person {
 	    private String email;
 }
 //lombok.jar added in a referenced libraries...
-//added
+//
+//What is the need of Project Lombok ?
+//To reduce Boilerplate code in Java like getters,setters, toString methods ,constructor etc.
+//Languages like Kotlin and Scala which is also JVM based doesn't have this boilerplate code
+//
+//What is Project Lombok ?
+//Project lombok is a Java library tool which is used to minimize/remove the boilerplate code and save the precious time of developer during development.
+//We can achieve this thing by using some annotation provided by lombok
+//It also increases the readability of the source code and saves some space
+//
+//How to configure project lombok to eclipse
+//
+//Comparison of Code with and without lombok
+//
+//Lombok Annotation
+//@Getter and @Setter
+//@NoArgsConstructor
+//@AllArgsConstructor
+//@ToString
+//@EqualsAndHashCode
+//@Data
