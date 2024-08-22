@@ -12,4 +12,4 @@ public class Person {
 	    private int age;
 	    private String email;
 }
-//lombok.jar added in a referenced libraries..
+//lombok.jar added in a referenced libraries
